@@ -3,6 +3,6 @@ ls /dev/dri
 
 定制OP方便好用
 
-https://supes.top/
-
-iStoreOS：https://fw.koolcenter.com/iStoreOS/
+https://supes.top/ #链接
+https://op.supes.top/packages/  #ipk文件
+iStoreOS：https://fw.koolcenter.com/iStoreOS/    #固件
